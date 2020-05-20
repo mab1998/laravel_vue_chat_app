@@ -78,4 +78,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel_vue_chat_app
+
+realization of tutorial :
+https://appdividend.com/2018/05/19/laravel-vue-chat-application-tutorial/
+
 # laravel_vue_chat_app
